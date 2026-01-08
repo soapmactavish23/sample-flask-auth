@@ -2,7 +2,7 @@ from flask import Flask
 
 app = Flask(__name__)
 
-@app.router("/hello-world", methods=['GET'])
+@app.route("/hello-world", methods=['GET'])
 def hello_world():
     return 'Hello World'
 
