@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/sample-flask-auth.iml" filepath="$PROJECT_DIR$/.idea/sample-flask-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sample-flask-auth-new.iml" filepath="$PROJECT_DIR$/.idea/sample-flask-auth-new.iml" />
     </modules>
   </component>
 </project>
