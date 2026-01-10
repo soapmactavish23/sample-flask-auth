@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42bc8531-fedf-4613-a8ea-86073304b857" name="Changes" comment="Criando o banco de dados e organizando componentes">
+    <list default="true" id="42bc8531-fedf-4613-a8ea-86073304b857" name="Changes" comment="Autenticação com Flask - login - parte 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instance/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/instance/database.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +131,8 @@
       <workItem from="1767906828784" duration="805000" />
       <workItem from="1767907688436" duration="105000" />
       <workItem from="1767907824877" duration="18000" />
-      <workItem from="1768010393680" duration="302000" />
+      <workItem from="1768010393680" duration="528000" />
+      <workItem from="1768081650074" duration="2088000" />
     </task>
     <task id="LOCAL-00001" summary="Criando o banco de dados e organizando componentes">
       <option name="closed" value="true" />
@@ -147,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1767907709151</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Autenticação com Flask - login - parte 1">
+      <option name="closed" value="true" />
+      <created>1768010734266</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768010734266</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Autenticação com Flask - login - parte 2">
+      <option name="closed" value="true" />
+      <created>1768010913273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768010913273</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,10 +174,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criando o banco de dados e organizando componentes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando o banco de dados e organizando componentes" />
+    <MESSAGE value="Autenticação com Flask - login - parte 1" />
+    <MESSAGE value="Autenticação com Flask - login - parte 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Autenticação com Flask - login - parte 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/sample_flask_auth_new$app.coverage" NAME="app Coverage Results" MODIFIED="1768010616649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sample_flask_auth_new$app.coverage" NAME="app Coverage Results" MODIFIED="1768084905580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sample_flask_auth_new$sample_flask_auth_new.coverage" NAME="sample-flask-auth-new Coverage Results" MODIFIED="1767907127149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
