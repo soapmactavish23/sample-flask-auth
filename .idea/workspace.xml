@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42bc8531-fedf-4613-a8ea-86073304b857" name="Changes" comment="Criando Views de Logout e Cadastro de Usuário - parte 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="42bc8531-fedf-4613-a8ea-86073304b857" name="Changes" comment="Rotas de Read e Update do Usuario">
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +130,7 @@
       <workItem from="1767907824877" duration="18000" />
       <workItem from="1768010393680" duration="528000" />
       <workItem from="1768081650074" duration="3130000" />
-      <workItem from="1768160058646" duration="329000" />
+      <workItem from="1768160058646" duration="658000" />
     </task>
     <task id="LOCAL-00001" summary="Criando o banco de dados e organizando componentes">
       <option name="closed" value="true" />
@@ -189,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768085545029</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Rotas de Read e Update do Usuario">
+      <option name="closed" value="true" />
+      <created>1768160637973</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768160637974</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +209,8 @@
     <MESSAGE value="Criando usuário e realizando autenticação" />
     <MESSAGE value="Criando Views de Logout e Cadastro de Usuário - parte 1" />
     <MESSAGE value="Criando Views de Logout e Cadastro de Usuário - parte 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando Views de Logout e Cadastro de Usuário - parte 2" />
+    <MESSAGE value="Rotas de Read e Update do Usuario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rotas de Read e Update do Usuario" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
